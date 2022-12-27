@@ -16,7 +16,16 @@
             "category": "Alimentação",
             "price": 50,
             "createdAt":"2022-12-23T00:14:25.124Z"
-            }
+            },
+
+            {
+                "id": 3,
+                "description": "Curso de React.JS",
+                "type": "outcome",
+                "category": "Educação",
+                "price": 2500,
+                "createdAt":"2022-12-20T00:13:45.124Z"
+                }
     
 
     ]
