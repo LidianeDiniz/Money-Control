@@ -39,6 +39,22 @@
       "type": "outcome",
       "createdAt": "2022-12-30T00:11:08.840Z",
       "id": 5
+    },
+    {
+      "description": "pastel",
+      "price": 5,
+      "category": "Lanche",
+      "type": "outcome",
+      "createdAt": "2022-12-30T00:56:30.562Z",
+      "id": 6
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "price": 100,
+      "category": "vendas",
+      "type": "income",
+      "createdAt": "2022-12-30T00:57:07.812Z",
+      "id": 7
     }
   ]
 }
