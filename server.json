@@ -1,60 +1,44 @@
 {
   "transactions": [
     {
-      "id": 1,
-      "description": "Desenvolvimento de site",
+      "description": "Salário ",
+      "price": 1500,
+      "category": "Trabalho",
       "type": "income",
-      "category": "Venda",
-      "price": 14000,
-      "createdAt": "2022-12-23T00:15:00.124Z"
+      "createdAt": "2022-12-31T00:20:22.449Z",
+      "id": 1
     },
     {
-      "id": 2,
-      "description": "Hamburger",
-      "type": "outcome",
+      "description": "Compras supermercado",
+      "price": 900,
       "category": "Alimentação",
-      "price": 50,
-      "createdAt": "2022-12-23T00:14:25.124Z"
-    },
-    {
-      "id": 3,
-      "description": "Curso de React.JS",
       "type": "outcome",
-      "category": "Educação",
-      "price": 2500,
-      "createdAt": "2022-12-20T00:13:45.124Z"
+      "createdAt": "2022-12-31T00:20:40.647Z",
+      "id": 2
     },
     {
-      "description": "Teste",
-      "price": 10,
-      "category": "Teste",
-      "type": "income",
-      "createdAt": "2022-12-29T21:04:34.955Z",
+      "description": "Material escolar",
+      "price": 200,
+      "category": "Educação",
+      "type": "outcome",
+      "createdAt": "2022-12-31T00:20:56.823Z",
+      "id": 3
+    },
+    {
+      "description": "Conta de luz",
+      "price": 100,
+      "category": "Moradia",
+      "type": "outcome",
+      "createdAt": "2022-12-31T00:21:11.886Z",
       "id": 4
     },
     {
-      "description": "compra",
-      "price": 10,
-      "category": "teste",
-      "type": "outcome",
-      "createdAt": "2022-12-30T00:11:08.840Z",
-      "id": 5
-    },
-    {
-      "description": "pastel",
-      "price": 5,
-      "category": "Lanche",
-      "type": "outcome",
-      "createdAt": "2022-12-30T00:56:30.562Z",
-      "id": 6
-    },
-    {
-      "description": "Desenvolvimento de app",
-      "price": 100,
-      "category": "vendas",
+      "description": "Trabalho extra",
+      "price": 200,
+      "category": "Trabalho",
       "type": "income",
-      "createdAt": "2022-12-30T00:57:07.812Z",
-      "id": 7
+      "createdAt": "2022-12-31T00:21:33.634Z",
+      "id": 5
     }
   ]
 }
