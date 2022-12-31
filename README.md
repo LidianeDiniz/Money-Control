@@ -37,7 +37,7 @@ Neste desafio foram abordados os seguintes temas:
 ## Funcionalidades
 
 - [x] Um projeto estruturado, com uma boa organização das pastas, divisão de componentes no front-end, etc;
-- [x] Nomes significativos para as suas funções e variáveis: trabalhando com os conceitos do Clean Code;
+- [x] Nomes significativos para as funções e variáveis: trabalhando com os conceitos do Clean Code;
 - [x] Possibilidade de fazer uma busca pelo nome transações;
 - [x] Esta interface consume uma API externa Json server;
 
