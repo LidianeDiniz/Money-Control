@@ -84,7 +84,7 @@ $ npm run dev
 # Instale as dependências com:
 
 $ npm install
-$ npm run deve:server
+$ npm run dev:server
 
 # O servidor inciará na porta:3000 - acesse <http://localhost:3000>
 ```
