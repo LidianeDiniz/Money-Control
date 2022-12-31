@@ -80,7 +80,7 @@ $ npm run dev
 ---
 
 ### 🎲 Rodando o Back End (no Frontend)
-
+```bash
 # Instale as dependências com:
 
 $ npm install
